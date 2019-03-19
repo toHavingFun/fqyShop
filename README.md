@@ -1,0 +1,1 @@
+fqyshop init

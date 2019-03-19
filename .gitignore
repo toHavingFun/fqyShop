@@ -1,0 +1,28 @@
+﻿#java ignore
+*.class
+#package ignore
+#支付宝的jdk看最后是否忽略
+*.jar 
+*.war
+*.ear
+#maven ignore
+target/
+
+#idea ignore
+.idea/
+/idea/
+*.iml
+*.ipr
+*.iws
+
+#tmp ignore
+*.log
+*.cache
+*.tmp
+*.patch
+
+#system ignore
+.DS_Store
+Thumbs.db
+
+
